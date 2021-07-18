@@ -1,0 +1,121 @@
+body {
+    background-color: #1a448b;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .signup-box {
+    width: 360px;
+    height: 100vh;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+    overflow-y: auto;
+    padding : 10px;
+    display : block;
+  }
+  
+  .login-box {
+    width: 360px;
+    height: 300px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+    overflow-y: auto;
+    padding : 10px;
+    display : none;
+  }
+  
+  .role-box {
+    width: 400px;
+    height: 250px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+    overflow-y: auto;
+    padding : 10px;
+    display: none;
+    text-align: center;
+  }
+
+  #show {
+    width: 500px;
+    height: auto;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+    overflow-y: auto;
+    padding : 10px;
+    text-align: left;
+    display: none;
+  }
+  h1 {
+    text-align: center;
+    padding-top: 15px;
+  }
+  
+  h4 {
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  
+  form label {
+    display: flex;
+    margin: 10px;
+    font-size: 18px;
+  }
+  
+  form .inp {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+    font-size: 18px;
+  }
+  .submit-btn {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+  }
+
+  #login-btn {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .para-2 {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+  }
+  .para-2 a {
+    color: #49c1a2;
+  }
+  #usr-table {
+    display: block;
+    margin-top: 20px;
+  }
+  th,td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+  
